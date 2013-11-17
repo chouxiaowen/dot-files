@@ -1,3 +1,5 @@
+# courtesy of Reynold Xin: https://github.com/rxin/dotfiles/blob/master/.screenrc
+
 term xterm-256color
 vbell off
 startup_message off
